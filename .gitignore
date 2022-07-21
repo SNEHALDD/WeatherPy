@@ -1,11 +1,6 @@
 # Adding config.py file.
 config.py
 
-# Adding additional files
-Weather_Database
-Vacation_Search
-Vacation Itinerary
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
